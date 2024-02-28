@@ -1,0 +1,14 @@
+/Users/diogobarros/Desktop/DP-c#/bin/Debug/net8.0/DP-c#
+/Users/diogobarros/Desktop/DP-c#/bin/Debug/net8.0/DP-c#.deps.json
+/Users/diogobarros/Desktop/DP-c#/bin/Debug/net8.0/DP-c#.runtimeconfig.json
+/Users/diogobarros/Desktop/DP-c#/bin/Debug/net8.0/DP-c#.dll
+/Users/diogobarros/Desktop/DP-c#/bin/Debug/net8.0/DP-c#.pdb
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/DP-c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/DP-c#.AssemblyInfoInputs.cache
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/DP-c#.AssemblyInfo.cs
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/DP-c#.csproj.CoreCompileInputs.cache
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/DP-c#.dll
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/refint/DP-c#.dll
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/DP-c#.pdb
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/DP-c#.genruntimeconfig.cache
+/Users/diogobarros/Desktop/DP-c#/obj/Debug/net8.0/ref/DP-c#.dll
